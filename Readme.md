@@ -1,4 +1,4 @@
-# Outfit calendar
+# Smart Outfit calendar
 
 Designed and implemented a cloud-based outfit recommendation system on **Google Cloud Platform (GCP)** using **SQL** for efficient data management. Enabled users to store clothing items with attributes, log daily outfits in a calendar, and receive personalized styling suggestions based on weather, occasion, and past records.
 
