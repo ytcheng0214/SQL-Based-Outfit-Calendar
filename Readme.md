@@ -1,10 +1,6 @@
 # Outfit calendar
 
-## Summary
-A calendar recording users’ everyday outfits and recommending styling, helping people save time from deciding what to wear.
-
-## Description
-Users can add clothing items with attributes (e.g. color, suitable season, type of clothing) to the closet in the app. Users can also add clothing items to their favorites. Users will record outfits on the calendar to create a wearing history. The app can recommend styling ideas based on the weather, occasion, color, and the records in the calendar.
+Designed and implemented a cloud-based outfit recommendation system on **Google Cloud Platform (GCP)** using **SQL** for efficient data management. Enabled users to store clothing items with attributes, log daily outfits in a calendar, and receive personalized styling suggestions based on weather, occasion, and past records.
 
 # Demo
 ## Final Demo Link
