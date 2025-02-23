@@ -1,4 +1,14 @@
 # fa24-cs411-team033-TT
+
+# Project Title
+Outfit calendar
+
+# Summary
+A calendar recording users’ everyday outfits and recommending styling, helping people save time from deciding what to wear.
+
+# Description
+Users can add clothing items with attributes (e.g. color, suitable season, type of clothing) to the closet in the app. Users can also add clothing items to their favorites. Users will record outfits on the calendar to create a wearing history. The app can recommend styling ideas based on the weather, occasion, color, and the records in the calendar.
+
 # Demo
 ## Final Demo Link
 https://drive.google.com/file/d/127uiM-Dn0pxalV42_LVqNPGpYY7v1yTi/view?usp=sharing
